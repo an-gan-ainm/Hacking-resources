@@ -4,6 +4,7 @@
 #Other githubs that have numerous amounts of information in them
 
 https://github.com/vitalysim/Awesome-Hacking-Resources
+https://github.com/devploit/ctf-awesome-resources
 
 
 
